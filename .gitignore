@@ -4,3 +4,4 @@ __pycache__/
 data/audio/
 data/transcripts/
 data/reports/
+test.py

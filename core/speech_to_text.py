@@ -1,7 +1,9 @@
+#core/speech_to_text.py
 import os
 import assemblyai as aai
+from config.settings import ASSEMBLYAI_API_KEY
 
-aai.settings.api_key = os.getenv("ASSEMBLYAI_API_KEY")
+aai.settings.api_key = ASSEMBLYAI_API_KEY
 
 def transcribe_audio(file_path: str) -> str:
     """
