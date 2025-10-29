@@ -1,6 +1,5 @@
 # 🩺 Medical Report Generator
-A modular Python-based system for **automating the generation and structuring of medical reports** using advanced language models.  
-Built with **LangChain**, **DeepSeek**, and a modular core architecture, this project turns raw medical data or transcriptions into clean, clinically styled `.docx` reports.
+A modular Python-based system for **automating the generation and structuring of medical reports** using advanced language models.  Built with **LangChain**, **DeepSeek**, and a modular core architecture, this project turns raw medical data or transcriptions into clean, clinically styled `.docx` reports.
 
 ## ✨ Features
 - 🧠 **AI-Powered Report Generation** — Uses a LangChain pipeline to interact with DeepSeek or other LLMs for structured medical summaries.  
@@ -15,7 +14,7 @@ Built with **LangChain**, **DeepSeek**, and a modular core architecture, this pr
 place holder report structurw
 ```
 
-## 🚀 SetUp and Run
+## 🚀 Set Up and Run
 ### 1️⃣ Clone the repository
 ```
 git clone https://github.com/potreic/Medical-Report.git
