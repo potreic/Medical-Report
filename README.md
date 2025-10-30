@@ -2,7 +2,7 @@
 A modular Python-based system for **automating the generation and structuring of medical reports** using advanced language models.  Built with **LangChain**, **DeepSeek**, and a modular core architecture, this project turns raw medical data or transcriptions into clean, clinically styled `.docx` reports.
 
 ## ✨ Features
-- 🧠 **AI-Powered Report Generation** — Uses a LangChain pipeline to interact with DeepSeek or other LLMs for structured medical summaries.  
+- 🧠 **AI-Powered Report Generation** — Uses a LangChain pipeline to interact with DeepSeek for structured medical summaries.  
 - 🧩 **Modular Architecture** — Organized into `core/`, `config/`, and `cogs/` for easy maintenance and scaling.  
 - 📄 **DOCX Output Renderer** — Automatically produces formatted `.docx` reports from model outputs.  
 - ⚙️ **Configurable Settings** — Easy environment setup via `.env` and centralized configuration management.  
