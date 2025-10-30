@@ -63,11 +63,12 @@ python bot.py
 
 ## 👩‍💻 Demo
 ### 1️⃣ Send Data Patient
-<p align="center">
+<p">
   <img src="https://github.com/potreic/Medical-Report/blob/main/assets/IMG_3855.gif?raw=true" 
        alt="Medical Report Demo 1" 
        style="width:320px; aspect-ratio:4/5; object-fit:cover; border-radius:12px; margin:8px;" />
 </p>
+
 ### 2️⃣ Send Audio Consultation
 <p>
   <img src="https://github.com/potreic/Medical-Report/blob/main/assets/IMG_3858.gif?raw=true" 
