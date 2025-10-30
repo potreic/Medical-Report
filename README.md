@@ -11,7 +11,27 @@ A modular Python-based system for **automating the generation and structuring of
 
 ## 🏗️ Project Structure
 ```
-place holder report structurw
+Medical-Report/
+├── cogs/
+│   └── consultation.py
+├── config/
+│   └── settings.py
+├── core/
+│   ├── langchain_pipeline.py
+│   └── speech_to_text.py
+├── tests/
+│   ├── __init__.py
+│   ├── conftest.py
+│   ├── test_consultation_helpers.py
+│   ├── test_docx_renderer.py
+│   ├── test_docx_renderer_no_date.py
+│   ├── test_generate_medical_report_functional.py
+│   ├── test_langchain_pipeline_utils.py
+│   └── test_speech_to_text_errors.py
+├── .env.example
+├── bot.py
+└── requirements.txt
+
 ```
 
 ## 🚀 Set Up and Run
